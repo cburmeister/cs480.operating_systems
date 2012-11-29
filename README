@@ -1,4 +1,6 @@
 CS480 Operating Systems
 =======================
 
-A few assignments from my operating systems class. Includes creating, forking, and managing threads & processes, pipes for studying inter-process communication, and file locks for studying how operating systems handle processes running concurrently.
+A few assignments from my operating systems class. Includes creating, forking, and managing 
+threads & processes, pipes for studying inter-process communication, and file locks for 
+studying how operating systems handle processes running concurrently.
